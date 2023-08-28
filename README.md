@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anindya bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anindya bhattacharya" height="30" width="40" /></a>
 <a href="https://kaggle.com/anindya_bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anindya_bhattacharya" height="30" width="40" /></a>
-<a href="https://fb.com/anindya bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anindya bhattacharya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100092756024266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anindya bhattacharya" height="30" width="40" /></a>
 <a href="https://instagram.com/king_vraks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_vraks" height="30" width="40" /></a>
 </p>
 
